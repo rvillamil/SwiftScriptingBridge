@@ -290,4 +290,7 @@ tags
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+# Pyhon
+*.pyc 
+
 # End of https://www.gitignore.io/api/vim,osx,xcode,swift,emacs,macos,eclipse,visualstudiocode

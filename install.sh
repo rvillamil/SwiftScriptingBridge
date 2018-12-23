@@ -69,6 +69,7 @@ function install () {
    
     echo "* Install project '${app_name}' in ${INSTALL_FRAMEWORKS_DIR}'"
     cd "${FRAMEWORKS_DIR}/${app_name}" > /dev/null 2>&1
+    sudo rm -rf "/Library/Frameworks/${app_name}Scripting.framework"
     sudo mv "build/Release/${app_name}Scripting.framework" ${INSTALL_FRAMEWORKS_DIR} 
     res=${?}
     cd - > /dev/null 2>&1

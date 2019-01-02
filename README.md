@@ -2,7 +2,7 @@
 
 ## Description
 
-Swift libraries for using scripting bridge. Thank's to https://github.com/tingraldi/SwiftScripting . I'am only a copy-paste man ;)
+Tools's set to generate swift frameworks for using scripting bridge. Thank's to https://github.com/tingraldi/SwiftScripting . I'am only a copy-paste man ;)
 
 ## Usage
 

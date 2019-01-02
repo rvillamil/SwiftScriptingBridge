@@ -22,7 +22,7 @@ Now you have to run this shell script, for building and installing scripting bui
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rvillamil/iTunesQuickRatingBar/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rvillamil/swift-scripting-bridge/tags).
 
 ## License
 
